@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MOPELOLA
+- 👋 Hi, I’m Mopelola
 - 👀 I’m interested in data analysing
 - 🌱 I’m currently learning Vephla University
 - 💞️ I’m looking to collaborate on Data Analyst Roles
